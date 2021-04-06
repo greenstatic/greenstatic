@@ -1,7 +1,3 @@
-> I would like to make a UDP joke, but you might not get it.
-
-![](https://voh.nipwd.com/github-status.svg)
-
 ### Hey there Internet travaler 👋
 - 🌱 I’m currently learning: Ceph
 - 💬 Ask me about: Kubernetes
